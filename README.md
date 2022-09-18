@@ -1,5 +1,3 @@
-macmizy/README.md
-
 # Hello there; I'm RUFAI ABDULRAHIM 👋🏾
 
 [![Website Badge](https://img.shields.io/badge/-Rufairahim.com-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://replit.com/@rufairahim)](https://replit.com/@rufairahim) [![Linkedin Badge](https://img.shields.io/badge/-rufaiabdulrahim-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulrahim-rufai-b0747a245/)](https://www.linkedin.com/in/abdulrahim-rufai-b0747a245/) [![Twitter Badge](https://img.shields.io/badge/-@rahim_moyo-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/rahim_moyo)](https://twitter.com/rahim_moyo)
